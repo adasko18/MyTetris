@@ -1,0 +1,25 @@
+.featureOne {
+    -fx-font: 50px Georgia, serif;
+    -fx-font-style: italic;
+    -fx-text-alignment: center;
+    -fx-text-fill: linear-gradient(from 10% 0% to 200% 300% , repeat, red 0%, black 40%);
+}
+
+.featureTwo {
+    -fx-font: 50px Georgia, serif;
+    -fx-font-style: oblique;
+    -fx-text-alignment: center;
+    -fx-text-fill: linear-gradient(from 10% 0% to 200% 300% , repeat, blue 0%, black 40%);
+}
+
+.featureThree {
+    -fx-font: 50px Georgia, serif;
+    -fx-text-alignment: center;
+    -fx-text-fill: linear-gradient(from 10% 0% to 200% 300% , repeat, green 0%, black 40%);
+}
+
+#featureFour{
+    -fx-font: 20px Georgia, serif;
+    -fx-text-alignment: center;
+    -fx-text-fill: linear-gradient(from 10% 0% to 200% 300% , repeat, red 0%, black 40%);
+}
