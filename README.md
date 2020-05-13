@@ -1,3 +1,8 @@
 # MyTetris
-v.1.0 of my tetris game
-JavaFx 11
+
+> Game based on classic tetris game
+
+**Recordit**
+
+![Recordit GIF] (http://g.recordit.co/cphASQ9DyF.gif)
+
