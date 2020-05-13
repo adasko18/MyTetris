@@ -1,10 +1,14 @@
 # MyTetris
 
-> Game based on classic tetris game
+> My own game project based on classic tetris game
 
 **Short gameplay**
 
 ![Recordit GIF](http://g.recordit.co/cphASQ9DyF.gif)
+
+**Game menu**
+
+[![INSERT YOUR GRAPHIC HERE](https://zapodaj.net/images/aa90b31064cc0.jpg)]()
 
 ## Table of Contents
 
@@ -18,6 +22,14 @@
 ## Installation
 
 ## Features
+
+> MyTetris app contains actualy following features:
+
+- score table with results
+
+[![INSERT YOUR GRAPHIC HERE](https://zapodaj.net/images/c0d88d24604f6.jpg)]()
+
+- music on/off button
 
 ## Example
 
@@ -45,7 +57,10 @@ private Figure getFigureFromFigureType(FigureType figureType) {
 
 ## Support
 
+
 ## License
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
 
 
 
